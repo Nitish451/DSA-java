@@ -75,6 +75,7 @@ public class Strings {
 ```
 
 # Access to substring
+```
 public class String{
     public static void main(string args[]){
 String sentence="TonyStark";
@@ -83,6 +84,7 @@ System.out.println(name);
 
     }
 }
+```
 
 
 
