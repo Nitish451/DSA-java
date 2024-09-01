@@ -47,7 +47,7 @@ public class Strings {
        String name2 = "Tony";
 
 
-       if(name1.equals(name2)) {
+       if(name1.equals(name2)==0) {
            System.out.println("They are the same string");
        } else {
            System.out.println("They are different strings");
@@ -55,7 +55,7 @@ public class Strings {
 
 
        //DO NOT USE == to check for string equality
-       //Gives correct answer here
+       //Gives correct answer here But some time give incorrect
        if(name1 == name2) {
            System.out.println("They are the same string");
        } else {
