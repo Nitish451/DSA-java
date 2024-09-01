@@ -77,7 +77,7 @@ System.out.print("enter col of matrix");
 int cols= sc.nextInt();
 System.out.println("enter element of array");
 int [][] numbers =new int[rows][cols];
-System.out.println("entrer the element of matrix");
+
 for(int i=0; i<rows; i++){
     for( int j=0; j<cols; j++){
   numbers[i][j]=sc.nextInt();
