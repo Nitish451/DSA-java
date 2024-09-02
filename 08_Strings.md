@@ -15,7 +15,7 @@ String name = sc.next();
 String firstName = "Nitish";
 String lastName = "Kumar";
 String fullName = firstName + " " + lastName;
-System.out.print(fullName);
+System.out.print(fullName);//Nitish Kumar
 ```
 
 # Length of a String
@@ -23,7 +23,7 @@ System.out.print(fullName);
 String firstName = "Nitish";
 String lastName = "Kumar";
 String fullName = firstName + " " + lastName;
-System.out.print(fullName.length());
+System.out.print(fullName.length());//10
 ```
 
 # Access characters of a String
@@ -34,7 +34,7 @@ String fullName = firstName + " " + lastName;
 System.out.print(fullName.length());
 for(int i=0; i<fullName.length(); i++) {
     System.out.println(fullName.charAt(i));
-}
+}//N,i,t,s,h,k,u,m,a,r
 ```
 
 # Compare 2 strings
@@ -83,7 +83,7 @@ String name=sentence.substring(4,sentence.length());
 System.out.println(name);
 
     }
-}
+}//Stark
 ```
 
 
