@@ -97,3 +97,17 @@ public class Bits {
 # GET
 ![GET](image-3.png)
 ![GET](image-4.png)
+
+# SET
+![SET](image-5.png)
+![SET](image-6.png)
+
+# CLEAR
+![CLEAR](image-7.png)
+![CLEAR](image-8.png)
+
+# UPDATE
+![UPDATE](image-9.png)
+![UPDATE](image-10.png)
+![UPDATE](image-11.png)
+
