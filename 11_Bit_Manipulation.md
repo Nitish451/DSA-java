@@ -1,8 +1,8 @@
 It is a very important topic.<br>
 Here we will play with Binary Numbers.<br>
 
-- **Left Shift** operator shifts the binary digits by `i` towards left. `N >> i`
-- **Right Shift** operator shifts the binary digits by `i` towards right. `N<< i`
+- **Left Shift** operator shifts the binary digits by `i` towards left. `N << i`
+- **Right Shift** operator shifts the binary digits by `i` towards right. `N>> i`
 
 # Operations in Bit Manipulation
 
@@ -24,6 +24,8 @@ public class Bits {
       }
    }
 }
+![Binary to Decimal](image-3.png)
+![Binary to Decimal](image-4.png)
 ```
 
 <br>
