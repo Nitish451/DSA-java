@@ -24,8 +24,7 @@ public class Bits {
       }
    }
 }
-![Binary to Decimal](image-3.png)
-![Binary to Decimal](image-4.png)
+
 ```
 
 <br>
@@ -95,3 +94,6 @@ public class Bits {
    }
 }
 ```
+# GET
+![GET](image-3.png)
+![GET](image-4.png)
