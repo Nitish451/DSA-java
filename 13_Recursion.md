@@ -1,4 +1,6 @@
 **Q1. Print numbers from 5 to 1.<br>
+
+```
 public static void printNumbers(int n) {
 if(n == 0) {
 return;
@@ -6,6 +8,8 @@ return;
 System.out.println(n);
 printNumbers(n-1);
 }
+
+```
 
 Q2. Print numbers from 1 to 5.
 public static void printNumbers(int n) {
