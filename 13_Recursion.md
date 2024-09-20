@@ -63,6 +63,7 @@ printFactorial(5, 1);
 ```
 
 Q5. Print the fibonacci sequence till nth term.
+```
 class Recursion1 {
 public static void printFactorial(int a, int b, int n) {
 if(n == 0) {
