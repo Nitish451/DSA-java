@@ -7,7 +7,7 @@ Class is a user-defined data type which defines its properties and its functions
 Object is a run-time entity. It is an instance of the class. An object can represent a person, place or any other item. An object can operate on both data members and member functions. 
 
  * Example 1:
- ,,,
+ ```
 class Student {
    String name;
    int age;
@@ -33,6 +33,7 @@ public class OOPS {
        s2.getInfo();
    }
 }
+```
 
  * Example 2:
 class Pen {
@@ -63,6 +64,7 @@ public class OOPS {
        p3.printColor();
    }
 }
+```
 
 # Note : 
 When an object is created using a new keyword, then space is allocated for the variable in a heap, and the starting address is stored in the stack memory.
